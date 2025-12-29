@@ -1,8 +1,10 @@
-# PYTHON PROGRAMMMINDG MODULE 1
-# NAME : SUBASHRAM T
-# REGISTER NUMBER : 25012309
-# DATE:15.11.2025
-# Ex 01: Conditional Statements in Python: Even or Odd Checker
+# PYTHON PROGRAMING MODULE 1
+## Name: subashram t
+## Register Number: 25012309
+## Date: 15.12.2025
+
+# Ex 1:Conditional Statements in Python: Even or Odd Checker
+
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
 
@@ -22,16 +24,15 @@ if num%2==0:
 else:
     print("ODD")
 ```
+## Output
 
-## Output 
-<img width="390" height="315" alt="502876926-b56cc56b-b48e-4eeb-8c24-245955c88c67" src="https://github.com/user-attachments/assets/d9ea829b-e1de-4a47-8e81-0aa7c3ee42b3" />
-
+<img width="390" height="315" alt="502876926-b56cc56b-b48e-4eeb-8c24-245955c88c67" src="https://github.com/user-attachments/assets/9b66c7cb-0068-4432-b6c6-c288ab4d5e60" />
 
 ## Result
-Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified
+Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
 
 
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Ex 2:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -59,16 +60,14 @@ print("c:", c)
 print("d:", d)
 ```
 
-
 ## Output
-<img width="392" height="356" alt="502876905-90ff30f1-02ce-4a64-85f6-b7e2d9827934" src="https://github.com/user-attachments/assets/df44eb7b-bafb-4874-b2e6-0fb0252b7699" />
 
+<img width="392" height="356" alt="502876905-90ff30f1-02ce-4a64-85f6-b7e2d9827934" src="https://github.com/user-attachments/assets/94f0921e-13bd-4772-aa7f-7fec6347dc9c" />
 
 ## Result
 Thus the given Python program has been executed successfully and the output has been verified.
 
-
-# Datatypes-Character Literal in Python
+# Ex 3:Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
@@ -84,13 +83,13 @@ print('T')
 print('a')
 ```
 ## Output
-<img width="367" height="311" alt="502876888-65623ae5-4db5-41d4-a21a-a13ce706c355" src="https://github.com/user-attachments/assets/1cfa4e2f-db1f-41a7-a18f-f1d7edab909b" />
+
+<img width="367" height="311" alt="502876888-65623ae5-4db5-41d4-a21a-a13ce706c355" src="https://github.com/user-attachments/assets/02209871-924b-4438-97f5-d4a7dbcee861" />
 
 ## Result
-Thus the given Python Program has been exceuted successfully and the output has been verified.
+Thus the given Python program has been executed successfully and the output has been verified.
 
-
-# 🧮 Datatypes-Complex Number Creation in Python
+# Ex 4: 🧮 Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
@@ -115,12 +114,13 @@ print(x.imag)
 ```
 
 ## Output
-<img width="434" height="332" alt="502876869-bfd89ad0-de2f-402e-88cf-7fb90df62c9f" src="https://github.com/user-attachments/assets/241bbf0b-3d2f-4ce0-904b-de0b93f89ff3" />
+
+<img width="434" height="332" alt="502876869-bfd89ad0-de2f-402e-88cf-7fb90df62c9f" src="https://github.com/user-attachments/assets/8f766df9-2972-4750-8178-85403ed38c73" />
 
 ## Result
-Therefore the given Python Program has been executed succeefully and the output has been verified.
+Thus the given Python program has been executed successfully and the output has been verified.
 
-# Datatypes-Read and Print a String in Python
+# Ex 5: Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
@@ -135,10 +135,9 @@ To write a Python program to read a string from the user and then print it.
 string = input()
 print(string)
 ```
-
 ## Output
-<img width="840" height="234" alt="502876832-a32ca587-0431-4f35-bee5-53df4691c5f9" src="https://github.com/user-attachments/assets/fdb8941e-622d-4b04-bd33-c5ba152a4dfd" />
+
+<img width="840" height="234" alt="502876832-a32ca587-0431-4f35-bee5-53df4691c5f9" src="https://github.com/user-attachments/assets/c1f7008f-3ffc-42a0-9b3f-53a144b910c7" />
 
 ## Result
-Therfore the given Python program has been executed successfully and the output has been verified.
-
+Thus the given Python program has been executed successfully and the output has been verified.
